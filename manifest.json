@@ -4,7 +4,7 @@
     "version": "69.420",
     "description": "You thought this would be a description, but it was me, DIO!",
     "content_scripts": [ {
-            "matches": ["https://myanimelist.net/*"],
+            "matches": ["https://myanimelist.net/*", "https://*.gogoanimehub.tv/*"],
             "js": ["jquery-3.js", "content.js"]
         }
     ],
