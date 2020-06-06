@@ -4,10 +4,12 @@
     "version": "69.420",
     "description": "You thought this would be a description, but it was me, DIO!",
     "content_scripts": [ {
-            "matches": ["https://myanimelist.net/*", "https://*.gogoanimehub.tv/*"],
+            "matches": ["https://myanimelist.net/*", "https://*.gogoanimehub.tv/*",
+                        "https://*.kiss-anime.ws/*", "https://www.crunchyroll.com/*"],
             "js": ["jquery-3.js", "content.js"]
         }
     ],
+    "content_security_policy": "script-src 'self' https://www.gstatic.com/ https://*.firebaseio.com https://www.googleapis.com; object-src 'self'; connect-src 'self' wss://*.firebaseio.com;",
     "options_ui": {
         "page": "options.html",
         "open_in_tab": false

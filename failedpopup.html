@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'" />
+        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+        <style>
+            #e5_9 {
+                position:relative;
+                opacity:1;
+                width:600px;
+                height:376px;
+            }
+            #e5_3 {
+                background-color:rgba(0, 0, 0, 1);
+                opacity:1;
+                width:600px;
+                height:376px;
+                position:absolute;
+                left:0px;
+                top:0px;
+            }
+            #e5_4 {
+                background-color:rgba(255, 255, 255, 1);
+                opacity:1;
+                width:570px;
+                height:352px;
+                position:absolute;
+                left:15px;
+                top:12px;
+                border-top-left-radius:10px;
+                border-top-right-radius:10px;
+                border-bottom-left-radius:10px;
+                border-bottom-right-radius:10px;
+            }
+            #e5_5 {
+                color:rgba(0, 0, 0, 1);
+                opacity:1;
+                width:386px;
+                height:44px;
+                position:absolute;
+                left:107px;
+                top:34px;
+                font-family:Montserrat;
+                text-align:left;
+                font-size:36px;
+                letter-spacing:0;
+                line-height:undefined;
+            }
+            #retry {
+                background-color:rgba(234.81250405311584, 234.81250405311584, 234.81250405311584, 1);
+                opacity:1;
+                width:500px;
+                height:191px;
+                position:absolute;
+                left:58px;
+                top:99px;
+                font-family:Montserrat;
+                font-size:28px;
+                border-top-left-radius:9px;
+                border-top-right-radius:9px;
+                border-bottom-left-radius:9px;
+                border-bottom-right-radius:9px;
+            }
+            #e5_6 {
+                color:rgba(0, 0, 0, 1);
+                opacity:1;
+                width:67px;
+                height:22px;
+                position:absolute;
+                left:270px;
+                top:334px;
+                font-family:Montserrat;
+                text-align:left;
+                font-size:12px;
+                letter-spacing:0;
+                line-height:undefined;
+            }
+            #errorReport {
+                color:rgba(0, 0, 0, 1);
+                opacity:1;
+                width:75px;
+                height:40px;
+                position:absolute;
+                left:266px;
+                top:300px;
+                font-family:Montserrat;
+                text-align:left;
+                font-size:12px;
+                letter-spacing:0;
+                line-height:undefined;
+            }
+            body {
+                background-image: url("https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Dio-Brando-Cropped.jpg");
+            }
+        </style>
+    </head>
+
+    <body>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-database.js"></script>
+
+        <div id="e5_9">
+            <div id="e5_3"></div>
+            <div id="e5_4"></div><span id="e5_5">SITE NOT WORKING?</span>
+            <div id="e5_7"></div><span id="e5_6">AnimeTaro</span>
+          </div>
+          <button id="errorReport">Report Error</button>
+        <button id="retry">Take me to a different site</button>
+        <script src="retry.js"></script>
+        <script src="database.js"></script>
+    </body>
+</html>
