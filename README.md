@@ -28,12 +28,12 @@ Preference you say? How to change?
 2. Scroll down to: 'Extension Options'.
 3. Select your anime source of choice.
 
-## Currently Supported Anime Sources
+##### Currently Supported Anime Sources
 - Gogoanime
 - Kissanime
 - Crunchyroll
 
-##### What do I do if the streaming page doesn't exist?
+## What do I do if the streaming page doesn't exist?
 Fear not! There are many reasons the extension doesn't bring you to the right page:
 - The website broke.
 - Bad programming.
