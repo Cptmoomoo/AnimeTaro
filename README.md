@@ -15,8 +15,11 @@ Well this is the extension for you. With AnimeTaro all of your anime finding nee
 5. Navigate to where you downloaded 'AnimeTaro' and load the folder.
 
 ## How It Works
-Just go to any MyAnimeList anime page like so:
+**Just go to any MyAnimeList anime page like so:**
+
 ![mal](https://i.imgur.com/zyH2397.jpg)
+
+Then click the extension icon to be brought to a website to watch it!
 
 ## User Options
 While on a MyAnimeList anime page and you will be brought to a streaming website based on your preference. 
