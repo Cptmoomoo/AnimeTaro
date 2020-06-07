@@ -16,7 +16,7 @@ Well this is the extension for you. With AnimeTaro all of your anime finding nee
 
 ## How It Works
 Just go to any MyAnimeList anime page like so:
-![mal](https://imgur.com/a/QJOgkcu)
+![mal](https://i.imgur.com/zyH2397.jpg)
 
 ## User Options
 While on a MyAnimeList anime page and you will be brought to a streaming website based on your preference. 
