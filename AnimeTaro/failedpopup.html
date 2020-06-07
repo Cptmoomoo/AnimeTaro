@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' http://* 'unsafe-inline'; script-src 'self' http://* 'unsafe-inline' 'unsafe-eval'" />
+        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+        <style>
+            #e5_9 {
+                position:relative;
+                opacity:1;
+                width:600px;
+                height:376px;
+            }
+            #e5_5 {
+                color: #FFDF00;
+                opacity:1;
+                width:386px;
+                height:44px;
+                position:absolute;
+                left:107px;
+                top:34px;
+                font-family:Montserrat;
+                text-align:left;
+                font-size:36px;
+                letter-spacing:0;
+                line-height:undefined;
+            }
+            #retry {
+                width:500px;
+                height:100px;
+                color: black;
+                position:absolute;
+                left:58px;
+                top:99px;
+                font-family:Montserrat;
+                font-size:28px;
+            }
+            #dio {
+                position: absolute;
+                left:150px;
+                top: 225px;
+            }
+            body {
+                background-image: url("https://static3.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Dio-Brando-Cropped.jpg");
+                background-size: 620px 420px;
+            }
+            button {
+                 background-color: #FFDF00;
+                 border: 2px solid black;
+                 color: white;
+                 padding: 15px 32px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+            }
+        </style>
+    </head>
+
+    <body>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-database.js"></script>
+
+        <img id="dio" src="logo.png" style="width:300px;height:150px;">
+        <div id="e5_9">
+            </div><span id="e5_5">SITE NOT WORKING?</span>
+         </div>
+        <button id="retry">Take me to a different site</button>
+        <script src="retry.js"></script>
+        <script src="database.js"></script>
+    </body>
+</html>
