@@ -36,5 +36,10 @@ Fear not! There are many reasons the extension doesn't bring you to the right pa
 
 To try another source, click on the icon again and press 'Take me to a different site'.  
 
+## Currently Supported Anime Sources
+- Gogoanime
+- Kissaniem
+- Crunchyroll
+
 ## Firebase!
 Google Firebase logs the sites that do not work whenever you click 'Take me to a different site' But nothing is done with that information...
