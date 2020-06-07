@@ -9,7 +9,8 @@ Well this is the extension for you. With AnimeTaro all of your anime finding nee
 ## Installation (Manual)
 1. Download the 'AnimeTaro' folder. (or the .rar but Chrome doesn't like .crx since it doesn't come from the Chrome store)
 2. Go to chrome://extensions/ -> (just paste this in the URL box)
-   2.5. Enable 'developer mode' in the top-right if not done already
+
+2.5. Enable 'developer mode' in the top-right if not done already
 3. Click 'Load Unpacked'
 4. Navigate to where you downloaded 'AnimeTaro' and load the folder.
 
