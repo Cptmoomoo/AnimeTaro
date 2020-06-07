@@ -23,4 +23,4 @@ function writeWebtoDatabase() {
 
 }
 
-document.getElementById('errorReport').addEventListener('click', writeWebtoDatabase);
+document.getElementById('retry').addEventListener('click', writeWebtoDatabase);
