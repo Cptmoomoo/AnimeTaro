@@ -8,7 +8,7 @@ Well this is the extension for you. With AnimeTaro all of your anime finding nee
 ![DIO](AnimeTaro/icon.png) 
 
 ## Installation (Manual) -> Since Chrome wont let you load .crx that are not from the store
-1. Download the 'AnimeTaro' folder. (or the .rar but Chrome doesn't like .crx since it doesn't come from the Chrome store)
+1. Download the 'AnimeTaro' folder. (or the .rar but Chrome doesn't like .crx since it doesn't come from the Chrome store).
 2. Go to chrome://extensions/ -> (just paste this in the URL box).
 3. Enable 'developer mode' in the top-right if not done already.
 4. Click 'Load Unpacked'.
