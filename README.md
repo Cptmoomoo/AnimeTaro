@@ -7,4 +7,4 @@ Well this is the extension for you. With AnimeTaro all of your anime finding nee
 ![DIO](AnimeTaro/icon.png) 
 
 while on a MyAnimeList anime page and you will be brought to a streaming website based on your preference. 
-Preference you say? How to change? Well first go to: (chrome://extensions/) 
+Preference you say? How to change? Well first go to: [Extentsions](chrome://extensions/) 
