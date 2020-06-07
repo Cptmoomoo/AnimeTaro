@@ -4,6 +4,7 @@
 ##### Have you ever just wanted to easily find an anime you are exploring on MyAnimeList? Have you ever just wanted to watch a small bit of an anime to see what it's about?
 
 Well this is the extension for you. With AnimeTaro all of your anime finding needs will be Junbi OK! Just install the chrome extension and click the extension icon that looks like this: 
+
 ![DIO](AnimeTaro/icon.png) 
 
 ## Installation (Manual) -> Since Chrome wont let you load .crx that are not from the store
