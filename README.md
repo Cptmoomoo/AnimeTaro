@@ -19,7 +19,7 @@ Well this is the extension for you. With AnimeTaro all of your anime finding nee
 
 ![mal](https://i.imgur.com/zyH2397.jpg)
 
-Then click the extension icon to be brought to a website to watch it!
+Then click the extension icon to be brought to a website to watch it! (Currently only working on MyAnimeList).
 
 ## User Options
 While on a MyAnimeList anime page and you will be brought to a streaming website based on your preference. 
