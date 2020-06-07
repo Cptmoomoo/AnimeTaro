@@ -14,6 +14,10 @@ Well this is the extension for you. With AnimeTaro all of your anime finding nee
 4. Click 'Load Unpacked'.
 5. Navigate to where you downloaded 'AnimeTaro' and load the folder.
 
+## How It Works
+Just go to any MyAnimeList anime page like so:
+![mal](https://imgur.com/a/QJOgkcu)
+
 ## User Options
 While on a MyAnimeList anime page and you will be brought to a streaming website based on your preference. 
 Preference you say? How to change? 
