@@ -28,3 +28,6 @@ Fear not! There are many reasons the extension doesn't bring you to the right pa
 - Bad programming.
 
 To try another source, click on the icon again and press 'Take me to a different site'.  
+
+## Firebase!
+Google Firebase logs the sites that do not work whenevey you click 'Take me to a different site' But nothing is done with that information...
